@@ -9,4 +9,4 @@
 </a>
 <a href="https://github.com/Zanegenius?tab=followers"><img src="https://img.shields.io/github/followers/Zanegenius?label=Followers&style=social" alt="GitHub Badge"></a>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zanegenius&show_icons=true&theme=highcontrast)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zanegenius&show_icons=true&theme=tokyonight)
