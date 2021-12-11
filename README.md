@@ -10,4 +10,5 @@
 <a href="https://github.com/Zanegenius?tab=followers"><img src="https://img.shields.io/github/followers/Zanegenius?label=Followers&style=social" alt="GitHub Badge"></a>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Zanegenius&layout=compact)](https://github.com/Zanegenius/github-readme-stats)
+
 ![Zane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Zanegenius&show_icons=true&theme=synthwave)
