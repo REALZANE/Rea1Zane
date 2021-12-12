@@ -1,5 +1,5 @@
 
-<p align="center"><a href="#"><img width="40%" height="auto" src="https://cdn.discordapp.com/attachments/893378078573748235/918982210164498482/68747470733a2f2f6d656469612e646973636f72646170702e6e65742f6174746163686d656e74732f3831333334313636323534353331333833322f3831333334333430343530373236373039322f706f6b656d6f6e5f706978656c2e676966.gif" height="175px"/></a>
+<p align="center"><a href="#"><img width="40%" height="auto" src="https://cdn.discordapp.com/attachments/893378078573748235/919614842095161364/05ae2c2dcf55029495d5229223033a69.gif" height="175px"/></a>
 <h1 align="center">Zanegenius
 
 <p align="center">
