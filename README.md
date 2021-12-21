@@ -44,5 +44,5 @@ object **SEU NOME** {
 [Discord]: https://discord.gg/rKzDhRTZnv
 <br>
 
-🥤[Discord][Discord]
+🥤 Discord : [Discord][Discord]
 
