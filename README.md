@@ -1,4 +1,4 @@
-### Hi I'm Zane 😳
+### **Hi I'm Zane. 😳**
 
 Gosto de criar ótimos softwares e ajudar outras pessoas a fazer o mesmo.
 
