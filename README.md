@@ -4,4 +4,3 @@
 <p align="center">
 <a href="https://github.com/Zanegenius/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=Zanegenius">
-<a>
