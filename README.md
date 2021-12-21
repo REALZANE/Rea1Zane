@@ -44,7 +44,5 @@ object **SEU NOME** {
 [Discord]: https://discord.gg/rKzDhRTZnv
 <br>
 
-#### My Discord!
-
 🏡 [Discord][Discord]
 
