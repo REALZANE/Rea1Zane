@@ -1,6 +1,6 @@
-### Hi I'm Zane. 😳
+### **Hi I'm Zane. 😳**
 
-## About me.
+## **About me.**
 
 <img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
 
@@ -13,7 +13,7 @@ object **Zane** {
 }
 ```
 
-## **GitHub Zanegenius**
+## **GitHub Zanegenius.**
 
 <a href="https://github.com/Zanegenius">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanegenius&theme=dracula&hide_langs_below=1" />
