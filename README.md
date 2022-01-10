@@ -4,7 +4,7 @@
 <p align="center">
     Zane#0884
 <p align="center">  
-<img src="https://komarev.com/ghpvc/?username=17teen&color=grey">
+<img src="https://komarev.com/ghpvc/?username=Zanegenius&color=grey">
 </p>
     <p align="center">
   <img src="https://discord.c99.nl/widget/theme-4/883046581744595016.png"/>
