@@ -1,30 +1,15 @@
-### **Hi I'm Zane. 😳**
-
-## **About me.**
-
-<img align="right" width="300" src="https://i2.wp.com/allhtaccess.info/wp-content/uploads/2018/03/programming.gif?fit=1281%2C716&ssl=1" />
-
-```kotlin
-object **Zane** {
- val name = "Zane#0884"
-
- val languages = listOf("Python", "JavaScript") 
-
-}
-```
-
-## **GitHub Zanegenius.**
-
-<a href="https://github.com/Zanegenius">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Zanegenius&theme=dracula&hide_langs_below=1" />
-</a>
-
-<a href="https://github.com/Zanegenius">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=Zanegenius&show_icons=true&theme=dracula&line_height=27" alt="**SEU NOME** github stats"/>
-</a>
-
-[Discord]: https://discord.gg/rKzDhRTZnv
-<br>
-
-🥤 Discord : [G E N I U S H U B][Discord]
-
+<p align="center">  
+<img src="https://media.discordapp.net/attachments/813341662545313832/813343404507267092/pokemon_pixel.gif">
+</p>
+<p align="center">
+    Zane#0884
+<p align="center">  
+<img src="https://komarev.com/ghpvc/?username=17teen&color=grey">
+</p>
+    <p align="center">
+  <img src="https://discord.c99.nl/widget/theme-4/883046581744595016.png"/>
+</p>
+<p align="center">
+Currently learning Python,JavaScript
+<p align="center">
+    <a href="https://discord.gg/p4xCSNavsn">Discord Server</a>
