@@ -13,3 +13,4 @@
 Currently learning Python,JavaScript
 <p align="center">
     <a href="https://discord.gg/p4xCSNavsn">Discord Server</a>
+    
